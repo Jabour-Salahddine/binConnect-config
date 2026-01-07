@@ -1,0 +1,10 @@
+
+tender:
+  buildVersion: "3.0"
+  message: "Welcome to bindConnect tender related docker APIs,local"
+  contactDetails:
+    name: "stito - Developer"
+    email: "stito@gmail.com"
+  onCallSupport:
+    - (212) 755-123-489
+    - (212) 523-134-578
